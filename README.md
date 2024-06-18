@@ -21,6 +21,6 @@ Select the URL tab on the pop-up window, copy and paste the link above, and clon
 
 🎨 Theme Color 👉🏾 [#e65100](https://htmlcolorcodes.com/hex-to-rgb/?hex=e65100)
 
-💼 Resources 👉🏾 [Dropbox Link](https://www.dropbox.com/scl/fi/us00zotuvnuj4ocsp6hcn/ReadME.txt?rlkey=d990qbf1gauowqkicw7ggu65u&dl=0)
+💼 Resources 👉🏾 [Dropbox Link]([https://www.dropbox.com/scl/fi/us00zotuvnuj4ocsp6hcn/ReadME.txt?rlkey=d990qbf1gauowqkicw7ggu65u&dl=0](https://www.dropbox.com/scl/fo/gq1elhsrvu4g5kg115slr/AJ5KUywpHdZ23KNFkBFZR8Y?rlkey=q5381d172eks8ixgq22420zgs&dl=0))
 
 Happy coding 👨🏾‍💻🚀
